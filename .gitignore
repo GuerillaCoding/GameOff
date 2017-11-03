@@ -50,8 +50,7 @@ crashlytics-build.properties
 fabric.properties
 
 # jMonkeyEngine3
-lwjgl64.dll
-OpenAL64.dll
+*.dll
 
 # Maven
 *.iml
